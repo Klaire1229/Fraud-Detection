@@ -1,0 +1,1 @@
+### This project utilized classification models to detect fraud activities in electricity and gas consumption with grid search for hyperparameter tuning, ranking 48/381 on the Zindi leaderboard with a cross-validation score of 0.88 via LightGBM
